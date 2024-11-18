@@ -18,7 +18,7 @@ El objetivo de este proyecto fue aplicar mis conocimientos sobre **HTML**, **Git
 
 En el siguiente enlace se puede ver la página creada:
 
-[Ver Proyecto en Vivo](https://tu-usuario.github.io/nombre-del-repositorio/)
+[Ver Proyecto en Vivo] https://haydeenb.github.io/proyecto_final/
 
 ## Tecnologías usadas
 
